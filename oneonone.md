@@ -17,7 +17,7 @@ I always come from a place of caring, so this is more about getting to know the 
 - What do you not like about it?
 2. Deep dive into your role and responsibilities
 - What do you enjoy?
-- What don't you link?
+- What don't you like?
 3. If you think the team could/should change one thing immediately, what would it be?
 4. What is a longer-term change you'd like to see? (this could be technical, organization structure, process, etc.)
 
